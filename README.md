@@ -22,7 +22,10 @@
 （图片位置先留着，一会再做）  
 
 -  示例文本  
-（图片位置先留着，一会再做）  
+  ![1st](https://user-images.githubusercontent.com/106015739/201528926-01bf0ec0-2467-4973-b8bf-21a7f0afef43.png)  
+  ![sc](https://user-images.githubusercontent.com/106015739/201528948-a8a54d1e-2b6c-451d-ac41-151df0769aea.png)  
+  ![tc](https://user-images.githubusercontent.com/106015739/201528965-742e231b-9b88-494b-aeb8-8d2ef3fb1fe7.png)  
+  ![jp](https://user-images.githubusercontent.com/106015739/201528978-939db0f7-6956-4a65-9814-553c09499ff0.png)  
 
 -  许可协议  
 本字体使用 SIL Open Font License V1.1 协议发表。  
