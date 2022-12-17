@@ -1,6 +1,6 @@
 # CEF Fonts CJK
   
-#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 1.14）。  
+#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 1.17）。  
   
 ![CEF-00](https://user-images.githubusercontent.com/106015739/172007851-59c2401d-7137-41be-9943-1b7d7cecfc37.png)  
   
@@ -26,7 +26,8 @@
   ![sc](https://user-images.githubusercontent.com/106015739/201528948-a8a54d1e-2b6c-451d-ac41-151df0769aea.png)  
   ![tc](https://user-images.githubusercontent.com/106015739/201528965-742e231b-9b88-494b-aeb8-8d2ef3fb1fe7.png)  
   ![jp](https://user-images.githubusercontent.com/106015739/201528978-939db0f7-6956-4a65-9814-553c09499ff0.png)  
-
+  ![kr](https://user-images.githubusercontent.com/106015739/208249218-fd9124b3-4414-454e-a3e0-fd943ce8cbd4.png)  
+  
 -  许可协议  
 本字体使用 SIL Open Font License V1.1 协议发表。  
 您可以：  
@@ -43,3 +44,6 @@
 1.强烈不建议将此字体用于三次元的作业，若被老师等人批评，作者不承担任何责任。  
 2.使用时请将字号调整到18及以上，以免损伤您的视力。  
 3.关于许可协议，上述内容仅供初步参考，如果不放心，可以去阅读项目内的许可协议文本，或者去 https://scripts.sil.org/OFL 查看更精确的信息。  
+  
+-  最后  
+诚然，CEF Fonts CJK依然不是完美的字体，由于早期技术力不足，制作了许多非常难看的字形。这些东西也许会在未来的某一天被修正。若您发现了错别字，请立刻联系我，当修复的错字达到一定数量时会在下一次更新正式启用更改。
