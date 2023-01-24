@@ -1,8 +1,8 @@
 # CEF Fonts CJK
   
-#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.02）。  
+#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.04）。  
   
-![CEF-V2](https://user-images.githubusercontent.com/106015739/210149090-6b5a07bb-7d52-4a78-8dc1-459ff9b0289d.png) 
+![CEF-CNY](https://user-images.githubusercontent.com/106015739/214308043-dc59f9fe-0a1e-4b71-919e-5a6f72c1f57e.png)  
   
 ### 介绍  
 这款字体项目在2020年4月25日开始制作，旨在为现在的文字正文显示（书籍、插画、视频等）提供一个新方案。前前后后2年多的时间，我们（其实就我一个人）用鼠标点点画画，一个包含完整中日韩越统一汉字基本区(20992字)以及扩展A区(6592字)的字库完成了，且现在依旧在更新中。  
@@ -17,10 +17,6 @@
 -  海纳百川，有容乃大  
 此字体支持 CJK统一汉字基本区（20992）字以及其他少量扩展区汉字，能够为简繁中文、日语、韩语提供基本显示支持。  
 ![CEF-02](https://user-images.githubusercontent.com/106015739/172010212-91dc975b-4321-4299-9ca0-8c0a22ae7a31.png)  
-  
--  变体假名支持  
-变体假名是日语假名从汉字演变时发展的产物，现已经很少使用，但你依然能在日本国内某些店铺装饰或者某些其他地方看到。鉴于支持此功能的字体很少，CEF Fonts CJK添加了这个。  
-（图片位置先留着，一会再做）  
 
 -  示例文本  
   ![1st](https://user-images.githubusercontent.com/106015739/201528926-01bf0ec0-2467-4973-b8bf-21a7f0afef43.png)  
@@ -28,6 +24,9 @@
   ![tc](https://user-images.githubusercontent.com/106015739/201528965-742e231b-9b88-494b-aeb8-8d2ef3fb1fe7.png)  
   ![jp](https://user-images.githubusercontent.com/106015739/201528978-939db0f7-6956-4a65-9814-553c09499ff0.png)  
   ![kr](https://user-images.githubusercontent.com/106015739/208249218-fd9124b3-4414-454e-a3e0-fd943ce8cbd4.png)  
+  
+- 其他  
+变体假名支持、通用规范汉字表支持、化学元素汉字支持、英文字间距支持（部分）、古谚文支持（部分）  
   
 -  许可协议  
 本字体使用 SIL Open Font License V1.1 协议发表。  
@@ -48,4 +47,3 @@
   
 -  最后  
 诚然，CEF Fonts CJK依然不是完美的字体，由于早期技术力不足，制作了许多非常难看的字形。这些东西也许会在未来的某一天被修正。若您发现了错别字，请立刻联系我，当修复的错字达到一定数量时会在下一次更新正式启用更改。
-
