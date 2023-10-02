@@ -23,7 +23,9 @@ Simplified Chinese, Traditional Chinese, Japanese, Korean, Greek, Russian, and m
   
 ## License  
 This font software is licensed under SIL Open Font License V1.1, you should follow the license agreement when using this font.  
-Commercial and Non-commercial usage are **OK**  
-**DO NOT** sell this font software.    
+Commercial and Non-commercial purposes are **OK**.  
+It's **OK** to change the original font software and redistribute them.  
+**DO NOT** sell this font software.  
+**DO NOT** redistribute your changed files by using other licenses.  
 
 This document is a simplified version of the original file `README.md`.
