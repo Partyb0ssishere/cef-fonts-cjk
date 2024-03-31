@@ -1,5 +1,10 @@
 # CEF Fonts CJK
   
+# 写在前面 / IMPORTANT!  
+  
+我想知道最近是否有人在修改 CEF Fonts CJK 以衍生新的字体，比如修改字形使其符合港台或者日本标准。如果有人做了，那我就不需要再费力了。谢谢。  
+I wonder that is there someone modifying CEF Fonts CJK, for example, changing glyphs to match standards in Hongkong, Taiwan or Japan? If so, I will not do the same work. Thanks a lot.  
+  
 #### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.16）。  
   
 ![2_12](https://user-images.githubusercontent.com/106015739/235649930-9c4c229f-90b6-4570-80e8-a9437a9508e8.png)
