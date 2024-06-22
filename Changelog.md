@@ -1,3 +1,8 @@
+2.25 hotfix, 2024,06,22  
+内容：  
+修复“蟀”字显示问题。  
+根据 Issue https://github.com/Partyb0ssishere/cef-fonts-cjk/issues/3 ，本版开始启用 Release 发布。请不要从 Release 界面下载源码，因为这样做没有什么特别的用处。  
+  
 2.24 common, 2024,06,06  
 内容：  
 调整三个竖直方向标点符号的位置。  
