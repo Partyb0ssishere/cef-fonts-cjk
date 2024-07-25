@@ -2,7 +2,8 @@
   
 # 写在前面 / IMPORTANT!  
   
-### 严禁 GitCode 私自搬运此项目  
+### 这里提到的“CEF”系**专有名词**，仅为此字体服务，与其他的“CEF”无任何关系。  
+The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has nothing to do with any other CEFs.  
   
 #### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.25）。  
   
