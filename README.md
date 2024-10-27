@@ -1,15 +1,21 @@
 # CEF Fonts CJK
   
-# 写在前面 / IMPORTANT!  
+> [!WARNING]
+>  
+>  这里提到的“CEF”系**专有名词**，仅为此字体服务，与其他的“CEF”无任何关系。  
+>  The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has nothing to do with any other CEFs.
+>  
+>  含有未完成功能的版本将以源码的方式上传，不会发布更新。  
+>  Incomplete version will not be updated as a release but source code.
+>    
   
-### 这里提到的“CEF”系**专有名词**，仅为此字体服务，与其他的“CEF”无任何关系。  
-The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has nothing to do with any other CEFs.  
-  
-#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.25）。  
+#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.26）。  
   
 ![2_12](https://user-images.githubusercontent.com/106015739/235649930-9c4c229f-90b6-4570-80e8-a9437a9508e8.png)
   
 ### 介绍  
+  
+> 嫌长者请打开项目内的`ReadmeconciseXX.md`文件查看精简说明。  
   
 这款字体在2020年4月25日开始制作，旨在为当代书籍、插画、视频等艺术形式的创作提供一个新方案。前前后后2年多的时间，我一个人用鼠标点点画画，一个包含完整中日韩越统一汉字基本区(20992字)以及扩展A区(6592字)的字库完成了，且现在依旧更新中。  
   
@@ -34,6 +40,8 @@ The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has 
   ![kr](https://user-images.githubusercontent.com/106015739/208249218-fd9124b3-4414-454e-a3e0-fd943ce8cbd4.png)
   
 - 其他  
+**新！** 可以无限延长的破折号（仅非等宽版）  
+**新！** 繁体字形支持（制作中，仅非等宽版）  
 变体假名支持  
 通用规范汉字表、HKSCS以及某些其它字表支持  
 化学元素汉字支持（元素周期表简体+繁体）  
