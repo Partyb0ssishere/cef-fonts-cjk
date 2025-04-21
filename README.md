@@ -1,7 +1,10 @@
 # CEF Fonts CJK
   
 > [!WARNING]
->  
+>  FREE FONT - YOU SHOULD NOT HAVE TO PAY ANYTHING FOR THIS FONT FILE.  
+>  免费字体 - 获取本字体文件无需付费。  
+>  免費字型 - 獲取本字型檔案無需付費。  
+>    
 >  这里提到的“CEF”系**专有名词**，仅为此字体服务，与其他的“CEF”无任何关系。  
 >  The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has nothing to do with any other CEFs.
 >  
