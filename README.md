@@ -4,13 +4,10 @@
 >  FREE FONT - YOU SHOULD NOT HAVE TO PAY ANYTHING FOR THIS FONT FILE.  
 >  免费字体 - 获取本字体文件无需付费。  
 >  免費字型 - 獲取本字型檔案無需付費。  
->    
->  这里提到的“CEF”系**专有名词**，仅为此字体服务，与其他的“CEF”无任何关系。  
->  The CEF mentioned here is a **PROPER NOUN** which serves THIS FONT ONLY and has nothing to do with any other CEFs.
->  
->  含有未完成功能的版本将以源码的方式上传，不会发布更新。  
->  Incomplete version will not be updated as a release but source code.
->    
+
+> [!IMPORTANT]
+> The non-CJK-Unified-Ideograph part of this font has stopped its maintenance. If you find it not satisfied enough, try to collaborate with our upcoming new font or find a more ideal font as replacement.  
+> 本字体除汉字之外的其它部分均已停止维护，若您对除了汉字以外的其它部分很不满，可尝试与我们将来会推出的字体推荐使用，或寻找效果更好的字体替代。  
   
 #### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.26）。  
   
@@ -42,34 +39,35 @@
   ![jp](https://user-images.githubusercontent.com/106015739/201528978-939db0f7-6956-4a65-9814-553c09499ff0.png)  
   ![kr](https://user-images.githubusercontent.com/106015739/208249218-fd9124b3-4414-454e-a3e0-fd943ce8cbd4.png)
   
-- 其他  
-**新！** 可以无限延长的破折号（仅非等宽版）  
-**新！** 繁体字形支持（制作中，仅非等宽版）  
+- 其他    
+**新！** 繁体字形支持（可能不会全面支持）  
 变体假名支持  
 通用规范汉字表、HKSCS以及某些其它字表支持  
-化学元素汉字支持（元素周期表简体+繁体）  
-英文字间距调整支持（部分）  
+化学元素汉字支持（元素周期表简体+繁体）   
 古谚文支持（部分）  
 **本字体不含适用于中日韩统一表意文字的变体序列功能，显示部分日语文本时可能出错。**  
-**本字体不能完全支持汉喃文。**  
-  
+**本字体不能完全支持汉喃文。**
+
+- 已废弃更新
+可以无限延长的破折号（实现困难，暂时停止制作）  
+
+- 关于粗体
+本人理解用户关于粗体的合理需求，但此字体具有一些特殊的性质，比如轮廓粗糙、字符量大，且我们力求**实现字重在一定范围内可变**，短时间内迅速完成质量过关的加粗版几乎不可能。在我们实现字重突破之前，不会有加粗版本，对不起。
+
 -  许可协议  
-本字体使用 SIL Open Font License V1.1 协议发表。  
+本字体使用 SIL Open Font License V1.1 许可协议发表。  
   
 -  在此协议下，您可以：  
 1.将 CEF Fonts CJK 及本字体的衍生版用于非商业或商业用途，无需告知原作者。  
-2.自由修改、再分发此字体，但是新字体的名称不得包含“快去写作业”、“快去寫作業”、“CEF Fonts”等字段。  
+2.自由修改、再分发此字体，但是新字体的名称不得包含“快去写作业”、“快去寫作業”、“CEF Fonts CJK”等字段。  
 3.嵌入网站或软件，且您对该软件的售卖不受限制。  
   
 -  您不可以：  
 1.将 CEF Fonts CJK 及其衍生版本的**源文件**进行售卖、与其他字体捆绑售卖或设置VIP权限门槛。  
 2.将此字体用于违反法律用途。  
-3.在您的修改版本使用其他许可证。本字体的任何修改版**必须以同样的授权条款（即 SIL Open Font License V1.1）发行**。  
+3.使用其他许可协议发行此副本或您的修改版本。本字体的副本及任何修改版**必须以同样的许可协议（即 SIL Open Font License V1.1）发行**。  
   
 -  还有一些事  
 1.强烈不建议将此字体用于三次元的作业，若被老师等人批评，作者不承担任何责任。  
 2.使用时请将字号调整到18及以上，以免损伤您的视力。  
-3.关于许可协议，上述内容仅供初步参考，如果不放心，可以去阅读项目内的许可协议文本，或者去 https://scripts.sil.org/OFL 查看更精确的信息。  
-  
--  最后  
-CEF Fonts CJK 作为我投入精力最多的项目，如无意外更新仍将持续进行。如果发现错误，欢迎开issue进行反馈，确认后将及时修改并在下一次更新时发布。  
+3.关于许可协议，上述内容仅供初步参考，如果不放心，可以去阅读项目内的许可协议文本，或者去 https://scripts.sil.org/OFL 查看更精确的信息。   
