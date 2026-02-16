@@ -9,7 +9,7 @@
 > The non-CJK-Unified-Ideograph part of this font has stopped its maintenance. If you find it not satisfied enough, try to collaborate with our upcoming new font or find a more ideal font as replacement.  
 > 本字体除汉字之外的其它部分均已停止维护，若您对除了汉字以外的其它部分很不满，可尝试与我们将来会推出的字体推荐使用，或寻找效果更好的字体替代。  
   
-#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.26）。  
+#### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.28）。  
   
 ![2_12](https://user-images.githubusercontent.com/106015739/235649930-9c4c229f-90b6-4570-80e8-a9437a9508e8.png)
   
